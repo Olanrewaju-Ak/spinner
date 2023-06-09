@@ -1,4 +1,4 @@
-let array = ["|   ", "/   ", "-   ", "\\   ", "|   ", "/   ", "-  ", "|   "];
+let array = ["|   ", "/   ", "-   ", "\\   ", "|   ", "/   ", "-  ", "\\   ", "|   "];
 
 array.forEach((element, index) => {
   setTimeout(() => {
